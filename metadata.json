@@ -1,0 +1,6 @@
+{
+  "name": "BiteBox - Food Delivery & Smart Diet Planner",
+  "description": "Discover crave-worthy food from top local restaurants and hit your health goals with BiteBox Smart Diet Planner, recommending real menu items tailored to your calories, macros, and budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
